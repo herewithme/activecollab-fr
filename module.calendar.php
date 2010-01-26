@@ -1,0 +1,16 @@
+<?php return array (
+  'No tasks here' => 'Aucune tâche ici',
+  'Calendar' => 'Calendrier',
+  'Enables viewing project data in a calendar. Global calendar is available plus a calendar for each project and user' => 'Facilite la visualisation des données de projet dans un calendrier. Un calendrier global est disponible en plus d\'un calendrier pour chaque projet et l\'utilisateur',
+  'Module will be deactivated. Data that is shown in the calendars will not be deleted' => 'Ce module sera désactivé. Les données affichées dans les calendriers ne seront pas effacées.',
+  ':user\'s calendar' => 'Calendrier de :user',
+  'Schedule' => 'Horaire',
+  'Sunday' => 'Dimanche',
+  'Monday' => 'Lundi',
+  'Tuesday ' => 'Mardi',
+  'Wednesday' => 'Mercredi',
+  'Thursday' => 'Jeudi',
+  'Friday' => 'Vendredi',
+  'Saturday' => 'Samedi',
+  'Tickets' => 'Tickets',
+) ?>

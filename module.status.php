@@ -1,0 +1,18 @@
+<?php return array (
+  ':name\'s Status Archive' => 'Archive des statuts de :name',
+  'Status Archive' => 'Archive des statuts',
+  'All users' => 'Tous les utilisateurs',
+  'User has no status updates' => 'L\'utilisateur n\'a fait aucune mise à jour de son statut',
+  'No status messages logged' => 'Aucun message de statut enregistré',
+  'What are you doing?' => 'Qu\'est-ce que vous faites ?',
+  'Browse Archive' => 'Naviguer dans les archives',
+  'Track Using RSS' => 'Suivre en utilisant le RSS',
+  'Recent Messages' => 'Messages récents',
+  'Status Module' => 'Module de statuts',
+  'Can post updates?' => 'Peut publier un statut ?',
+  'Status Updates' => 'Mises à jour des statuts',
+  'Status message is required' => 'Le message du statut est obligatoire',
+  'Adds simple, globally available communication channel. Tell your team members or clients what you are working on or have a quick chat' => 'Ajoute une fonctionnalité simple, globale pour communiquer. Dites à aux membres de vos équipes ou vos clients sur quoi vous êtes en train de travailler ou lancer une petite discussion',
+  'Module will be deactivated. All data generated using it will be deleted' => 'Ce module sera désactivé. Toutes les données crées par ce dernier seront supprimées.',
+  'We are sorry, but system failed to save your status message. Please try again later.' => 'Nous sommes désolés, mais l\'enregistrement de votre message de statut a échoué. Merci de réessayer ultérieurement.',
+) ?>
