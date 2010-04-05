@@ -48,7 +48,7 @@
           <translation phrase="No tickets here"><![CDATA[Aucun ticket içi]]></translation>
           <translation phrase="All Open Tickets"><![CDATA[Tous les tickets ouverts]]></translation>
           <translation phrase="Open Tickets"><![CDATA[Tickets ouverts]]></translation>
-          <translation phrase="Ticket &lt;a href=&quot;:url&quot;&gt;:name&lt;/a&gt; has been created"><![CDATA[Le ticket&lt;a href=&quot;:url&quot;&gt;:name&lt;/a&gt; vient d'être ouvert]]></translation>
+          <translation phrase="Ticket &lt;a href=&quot;:url&quot;&gt;:name&lt;/a&gt; has been created"><![CDATA[Le ticket &lt;a href=&quot;:url&quot;&gt;:name&lt;/a&gt; vient d'être ouvert]]></translation>
           <translation phrase="Set Milestone and Category"><![CDATA[Fixer un jalon et une catégorie]]></translation>
           <translation phrase="Set Category"><![CDATA[Fixer une catégorie]]></translation>
           <translation phrase="Set Due On"><![CDATA[Fixer la date de livraison]]></translation>
@@ -1153,7 +1153,7 @@
           <translation phrase="by unknown user"><![CDATA[par un utilisateur inconnu]]></translation>
           <translation phrase="Due Today"><![CDATA[Dû aujourd'hui]]></translation>
           <translation phrase="1 Day Late"><![CDATA[1 jour de retard]]></translation>
-          <translation phrase="Due Tomorrow"><![CDATA[Dû hier]]></translation>
+          <translation phrase="Due Tomorrow"><![CDATA[Dû demain]]></translation>
           <translation phrase="Due in :days Days"><![CDATA[Dû dans :days jours]]></translation>
           <translation phrase=":days Days Late"><![CDATA[:days jours de retard]]></translation>
           <translation phrase="No Due Date"><![CDATA[Pas de date due]]></translation>
