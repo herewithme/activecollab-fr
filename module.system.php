@@ -706,7 +706,7 @@
   'by unknown user' => 'par un utilisateur inconnu',
   'Due Today' => 'Dû aujourd\'hui',
   '1 Day Late' => '1 jour de retard',
-  'Due Tomorrow' => 'Dû hier',
+  'Due Tomorrow' => 'Dû demain',
   'Due in :days Days' => 'Dû dans :days jours',
   ':days Days Late' => ':days jours de retard',
   'No Due Date' => 'Pas de date due',
