@@ -150,7 +150,7 @@
   'Update' => 'Mettre à jour',
   'Available variables' => 'Variables disponibles',
   'Email Templates' => 'Gabarits des e-mails',
-  'Email template :name' => 'Gavair de l\'e-mail :name',
+  'Email template :name' => 'Gabarit de l\'e-mail :name',
   'There are no email templates defined in database' => 'Il n\'y a pas de gabarit d\'e-mail défini dans la base de données',
   'All' => 'Tous',
   'About API' => 'À propos de l\'API',

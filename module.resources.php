@@ -115,7 +115,7 @@
   'Set priority and due date...' => 'Définir la priorité et la date de rendu',
   'Done adding tasks?' => 'Finis d\'ajouter des tâches ?',
   'Add Another Task' => 'Ajouter une autre tâche',
-  'Show :remaining_count remaining completed tasks' => 'Afiche remaining_count tâches restantes à compléter',
+  'Show :remaining_count remaining completed tasks' => 'Afiche :remaining_count tâches restantes à compléter',
   'You are about to create a new task on "<a href=":view_url"><strong>:name</strong></a>" :type' => 'Vous êtes en train de créer une nouvelle tâche dans :atype "<a href=":view_url"><strong>:name</strong></a>"',
   'Add task' => 'Ajouter une tâche',
   'Edit task' => 'Modifier la tâche',
